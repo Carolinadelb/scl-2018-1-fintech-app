@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: "Lato";
+    padding-bottom: 0px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    font-weight: bold;
+    text-shadow: #00000061 0.1em 0.1em 0.4em;
+}
+.sectionWhite{
+    background-color:#fff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.sectionColor{
+    background-color:#20d5ff7a;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
