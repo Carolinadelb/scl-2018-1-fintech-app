@@ -20,12 +20,12 @@ Los chilenos no ahorran por los bajos sueldos
 Los chilenos ahorran para la AFP
 
 
-#Proceso de Investigación
-##Entendimiento del problema
+# Proceso de Investigación
+## Entendimiento del problema
 
 texto 
 
-##Entrevista con Training manager 
+## Entrevista con Training manager 
 
 Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuales eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comento que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
 
@@ -42,10 +42,11 @@ Para dar a conocer la aplicación a sus clientes crearon un landing page que dif
 
 ## Entrevista con usuarios
 
-Para esta investigación entrevistamos a seis personas usuarias de bancos y que en su celular tuviesen la app de su banco.
+Para esta investigación entrevistamos a seis personas usuarias de algún banco en Chile y que en su celular tuviesen la app de su banco. A través de un cuestionario, conocimos de que forma interactúan con su banco día a día y cómo utilizan la app.
 
--
--
+- Para los entrevistados las app de su banco son confiable porque identifican caracteristicas que les otorgan seguridad como el pedir la huella digital para ingresar a la sesión, notificar por correo o sms los movimientos que se realizan dentro de al app y contar con un sistema de cierre automático o apenas se deje de usar. 
+
+- Para ahorrar dos de los usuarios lo hacen a través de fondos mutuos, los que pueden monitorear de manera constante a través de la aplicación de su celular.
 -
 -
 
@@ -56,6 +57,23 @@ Para esta investigación entrevistamos a seis personas usuarias de bancos y que 
 
 
 ## Test de la app existente
+
+Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistados quienes desconocían el funcionamiento de la APP. A cada uno se les asigno una tarea a realizar con el prototipo.
+
+Para conocer en detalle las impresiones de los entrevistados debes hacer clic en vídeo y conocer como fue la experiencia de ellos. 
+
+- [Test 1](https://trello.com/b/Y12rGUbJ/ux-marketplace):
+- [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):
+- [Test 3](https://trello.com/b/Y12rGUbJ/ux-marketplace):
+- [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):
+- [Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): 
+- [Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098):
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
+</p>
+
+
 
 ## Benchmark
 ## User Person
