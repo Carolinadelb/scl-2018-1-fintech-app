@@ -8,5 +8,30 @@ Hace seis meses el banco más importante del país lanzo una nueva aplicación a
   <img src="https://camo.githubusercontent.com/0afcd9080c9c9ce41c3c08c67005dc5242143980/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5779665550757252756f587979655a53635174644c686b3036335a6f7a546f566c756a6f6c6a756c335444774a57354b5a79334f6d5f4c7675422d54423949634732725f424353706f5874584c2d625a6a496547424678516d4c344759454d3251586e516f7671364576697859614f5f5a352d67464d766c6a4d396a79653762566f66656e644d74654249">
 </p>
 
+##  Objetivo
 
-##  Objetivos
+Identificar cuales son los factores en los que es necesario iterar para atraer a los usurios a bajar la aplicación y se mantengan activos en su uso.
+
+## Introducción
+
+
+
+Puntos del readme:
+Preámbulo: porque estamos qui
+Introducción: datos duros de la actualidad
+Proceso de investigación:
+-Entendimiento del problema
+- Entrevista con Training manager
+
+Captar nuevos clientes para el banco el país
+Que los usuarios que bajen la aplicación la utilicen / tengan usuarios activos
+
+
+- Entrevista con usuarios
+- Test de la app existente
+-Benchmark
+-User Person
+-User Flow
+-Inventario de contenidos (no se cual va primero ni si este es necesario jaja)
+-Teste prototipo alto
+-Conclusiones
