@@ -46,8 +46,14 @@ Para llevar a cabo esta investigación seleccionamos las tareas que consideramos
 |Total |265 pts.| 93,5 horas | 382500|
 
 ## Entendimiento del problema
-Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, con esto entendimos que el primer paso era reunirnos con la Trainin manager.
+Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, analizamos la data y con esto entendimos que el primer paso era reunirnos con la Training manager.
 
+### Analisis de la Data 
+
+Cuando el equipo del banco con contacto nos hizo llegar una data con sus estadísticas de tráfico en desde el landing page.
+
+
+[Continuar escribiendo]
 ### Entrevista con Training manager 
 
 Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuales eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comento que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
@@ -94,12 +100,12 @@ Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistad
 
 Para conocer en detalle las impresiones de los entrevistados debes hacer clic en Test y podrás conocer la experiencia de cada uno utilizando la app. 
 
-[Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
-[Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear una nueva misión. 
-[Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing):  La missión fue registrarse en la app y crear una nueva misión. 
-[Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva misión. 
-[Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): La missión asignada fue registrarse como nuevo usuario y ver los movimientos en Starbucks.
-[Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098): La missión asignada fue como cliente ya registrado iniciar sesión y mirar los gastos.
+* [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing):  La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): La missión asignada fue registrarse como nuevo usuario y ver los movimientos en Starbucks.
+* [Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098): La missión asignada fue como cliente ya registrado iniciar sesión y mirar los gastos.
 
 Luego de la realización de los test logramos concluir que:
 
@@ -115,11 +121,23 @@ Luego de la realización de los test logramos concluir que:
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
 </p>
 
-
-
 ## Benchmark
+
+Para realizar este benchmark buscamos aplicaciones que permitían a las personas ahorrar o administrar sus ahorros. Comparamos características que consideramos necesesarias para su funcionamiento y entendimiento de los usuarios.
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/benchmark.PNG">
+
+  Revisa la información completa [aquí](https://docs.google.com/presentation/d/1yR22t7NM0Uhq0u42c3VJAj1-uCXuVpLt1ouaP8j7AEE/edit?usp=sharing):
+</p>
+
 ## User Person
 ## User Flow
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
+</p>
+
 ## Inventario de contenidos
 ## Teste prototipo alto
 ## Conclusiones
