@@ -62,9 +62,9 @@ Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistad
 
 Para conocer en detalle las impresiones de los entrevistados debes hacer clic en vídeo y conocer como fue la experiencia de ellos. 
 
-- [Test 1](https://trello.com/b/Y12rGUbJ/ux-marketplace):
+- [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing):
 - [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):
-- [Test 3](https://trello.com/b/Y12rGUbJ/ux-marketplace):
+- [Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing):
 - [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):
 - [Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): 
 - [Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098):
