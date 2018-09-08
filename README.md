@@ -2,30 +2,51 @@
 
 ## Preámbulo
 
-Hace seis meses el banco más importante del país lanzo una nueva aplicación al mercado. Esta permite a los usuarios visualizar sus gatos mensuales y ahorrar. Luego de este periodo y no 100 % contentos con el resultado, contactaron al nuestro equipo de UX para que los ayude a definir la dirección y evolución de este producto. 
+Hace seis meses el banco más importante del país lanzo una nueva aplicación al mercado. Esta permite a los usuarios visualizar sus gatos mensuales y ahorrar. Luego de este periodo y no 100 % contentos con el resultado, contactaron a nuestro equipo de UX para que los ayudemos a definir la dirección y evolución de este producto. 
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/0afcd9080c9c9ce41c3c08c67005dc5242143980/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5779665550757252756f587979655a53635174644c686b3036335a6f7a546f566c756a6f6c6a756c335444774a57354b5a79334f6d5f4c7675422d54423949634732725f424353706f5874584c2d625a6a496547424678516d4c344759454d3251586e516f7671364576697859614f5f5a352d67464d766c6a4d396a79653762566f66656e644d74654249">
 </p>
 
-##  Objetivo
+##  Objetivo de la investigación
 
-Opción 1) Identificar cuales son los factores en los que es necesario iterar para atraer a los usurios a bajar la aplicación y se mantengan activos en su uso.
-
-Opción 2 o especifico) Generar una mayor captación de nuevos usuarios
+Identificar cuales son los factores en los que es necesario iterar para atraer a los usurios a bajar la aplicación y se mantengan activos en su uso.
 
 ## Introducción
 
-Los chilenos no ahorran por los bajos sueldos
-Los chilenos ahorran para la AFP
+Según el último informe de la a Superintendencia de Bancos e Instituciones Financieras (SBIF), quienes revisaron cuentas de bancos y de cooperativas, los chilenos ahorran solo un porcentaje de su sueldo, lo hacen a través de dépositos a plazo pero de igual forma se endeudan, solo el 53% de ellos lo hacen en tecnología.
+
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/2.png">
+</p>
+
+Por otro lado, las generaciones más jóvenes buscan métodos nuevos para ahorrar, dejando de lado las tradicionales "cuentas de ahorro" en los bancos y explorando a través de sus dispositvos móviles aplicaciones que les permitan realizar esta tarea y llevar un orden.
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/1.png">
+</p>
 
 
 # Proceso de Investigación
+
+Para llevar a cabo esta investigación seleccionamos las tareas que consideramos necesarias para la realización de la investigación y la iteración del prototipo. Con este presupuesta, que considera horas de trabajo y puntaje por cada actividad, comenzamos a trabajar posterior a la aprobación del director de presupuesto del banco.
+
+|Actividad |Puntaje |Horas |Costo |
+|:----|:---|:---|:---:|
+|Entendimiento del problema|15 pts.| 1,5 horas | 22500|
+|Entrevista con el cliente|25 pts. |2,5 horas | 37500|
+|Entrevista con usuarios|60 pts. |5 horas | 75000 |
+|Testeo de solución actual|50 pts.| 5 horas | 75000| 
+|Benchmark |5 pts.| 1 hora |15000 |
+|Users persona | 20 pts. | 2 horas| 35000 |
+|Users Flow |15 pts. | 1,5 horas | 22500 |
+|Inventario de contenidos |15 pts. | 1,5 horas | 25000|
+|Teste prototipo de alta |60 pts. | 5 horas | 75000 |
+|Total |265 pts.| 93,5 horas | 382500|
+
 ## Entendimiento del problema
-
-texto 
-
-## Entrevista con Training manager 
+### Entrevista con Training manager 
 
 Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuales eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comento que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
 
