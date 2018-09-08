@@ -135,7 +135,7 @@ Para realizar este benchmark buscamos aplicaciones que permitían a las personas
 ## User Flow
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/User%20Flow.PNG">
 </p>
 
 ## Inventario de contenidos
