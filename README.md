@@ -46,6 +46,8 @@ Para llevar a cabo esta investigación seleccionamos las tareas que consideramos
 |Total |265 pts.| 93,5 horas | 382500|
 
 ## Entendimiento del problema
+Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, con esto entendimos que el primer paso era reunirnos con la Trainin manager.
+
 ### Entrevista con Training manager 
 
 Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuales eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comento que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
@@ -63,32 +65,51 @@ Para dar a conocer la aplicación a sus clientes crearon un landing page que dif
 
 ## Entrevista con usuarios
 
-Para esta investigación entrevistamos a seis personas usuarias de algún banco en Chile y que en su celular tuviesen la app de su banco. A través de un cuestionario, conocimos de que forma interactúan con su banco día a día y cómo utilizan la app.
+Para esta investigación entrevistamos a seis personas usuarias de algún banco en Chile y que en su celular tuviesen la app de su banco. A través de un cuestionario, conocimos de que forma interactúan con su banco día a día y cómo utilizan la app. Además de sus formas y razones para ahorrar.
 
-- Para los entrevistados las app de su banco son confiable porque identifican caracteristicas que les otorgan seguridad como el pedir la huella digital para ingresar a la sesión, notificar por correo o sms los movimientos que se realizan dentro de al app y contar con un sistema de cierre automático o apenas se deje de usar. 
+- Cuatro de los seis entrevistados tienen sistema operativo Android.
+
+- Solo uno un celular de prepago al que le compra bolsas para acceder a Internet.
+
+- Para los entrevistados las app de su banco son confiables porque identifican características que les otorgan seguridad como el <b> pedir la huella digital para ingresar a la sesión, notificar por correo o sms los movimientos que se realizan dentro de la app y contar con un sistema de cierre automático apenas se deje de usar o se encuentre inactiva la sesión.</b>
 
 - Para ahorrar dos de los usuarios lo hacen a través de fondos mutuos, los que pueden monitorear de manera constante a través de la aplicación de su celular.
--
--
+
+- Mas de uno de los entrevistados tenía dos cuentas en el mismo banco (vista y corriente) entre la que se traspasaba fondos como forma de ahorro.
+
+- Dos solo son clientes del banco porque fue el único que sin ningún requisito previo que ser mayor de 18 años les permitió abrir una cuenta.
+
+- Uno de los entrevistados prefiere el método tradicional de ahorro y el contacto directo con su ejecutiva.
 
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/insightentrevistadosunos.jpeg">
 </p>
 
+Con estas entrevistas logramos identificar que los usuarios tienen la disposición a utilizar una 2 App “solo” cuando esta tenga una buena valorización y beneficios para ellos. 
 
 ## Test de la app existente
 
 Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistados quienes desconocían el funcionamiento de la APP. A cada uno se les asigno una tarea a realizar con el prototipo.
 
-Para conocer en detalle las impresiones de los entrevistados debes hacer clic en vídeo y conocer como fue la experiencia de ellos. 
+Para conocer en detalle las impresiones de los entrevistados debes hacer clic en Test y podrás conocer la experiencia de cada uno utilizando la app. 
 
-- [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing):
-- [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):
-- [Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing):
-- [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):
-- [Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): 
-- [Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098):
+[Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
+[Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear una nueva misión. 
+[Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing):  La missión fue registrarse en la app y crear una nueva misión. 
+[Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva misión. 
+[Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): La missión asignada fue registrarse como nuevo usuario y ver los movimientos en Starbucks.
+[Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098): La missión asignada fue como cliente ya registrado iniciar sesión y mirar los gastos.
+
+Luego de la realización de los test logramos concluir que:
+
+- Para los usuarios fue instuitivo el funcionamiento de la aplicación y sin mayores problemas pudieron realizar las tareas.
+
+- Algunos tuvieron dificultad a la hora de leer el texto por la debilidad de los colores y lo pequeño de la letra.
+
+- Un test cuestiono que la aplicación solo estuviese para IOS y no Android porque todos pueden ahorrar.
+
+- Ninguna de las personas que realizó este test de usabilidad tenía en su celular alguna aplicación de similares características.
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
