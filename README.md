@@ -132,6 +132,15 @@ Para realizar este benchmark buscamos aplicaciones que permitían a las personas
 </p>
 
 ## User Person
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/usersperson1.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/userperson2.PNG">
+</p>
+
+
 ## User Flow
 
 <p align="center">
