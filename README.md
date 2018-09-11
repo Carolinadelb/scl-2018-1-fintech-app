@@ -10,18 +10,18 @@ Hace seis meses el banco más importante del país lanzo una nueva aplicación a
 
 ##  Objetivo de la investigación
 
-Identificar cuales son los factores en los que es necesario iterar para atraer a los usurios a bajar la aplicación y se mantengan activos en su uso.
+Identificar cuáles son los factores en los que es necesario iterar para atraer a los usuarios a bajar la aplicación y se mantengan activos en su uso.
 
 ## Introducción
 
-Según el último informe de la a Superintendencia de Bancos e Instituciones Financieras (SBIF), quienes revisaron cuentas de bancos y de cooperativas, los chilenos ahorran solo un porcentaje de su sueldo, lo hacen a través de dépositos a plazo pero de igual forma se endeudan, solo el 53% de ellos lo hacen en tecnología.
+Según el último informe de la a Superintendencia de Bancos e Instituciones Financieras (SBIF), quienes revisaron cuentas de bancos y de cooperativas, los chilenos ahorran solo un porcentaje de su sueldo, lo hacen a través de depósitos a plazo, pero de igual forma se endeudan, solo el 53% de ellos lo hacen en tecnología.
 
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/2.png">
 </p>
 
-Por otro lado, las generaciones más jóvenes buscan métodos nuevos para ahorrar, dejando de lado las tradicionales "cuentas de ahorro" en los bancos y explorando a través de sus dispositvos móviles aplicaciones que les permitan realizar esta tarea y llevar un orden.
+Por otro lado, las generaciones más jóvenes buscan métodos nuevos para ahorrar, dejando de lado las tradicionales "cuentas de ahorro" en los bancos y explorando a través de sus dispositivos móviles aplicaciones que les permitan realizar esta tarea y llevar un orden.
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/1.png">
@@ -50,33 +50,43 @@ Para comenzar la investigación ordenamos por jerarquía las actividades a reali
 
 ### Analisis de la Data 
 
-El equipo del banco nos hizo llegar la data con las estadíticas de tráfico de su app, con ella hicimos las siguientes observaciones:
+El equipo del banco nos hizo llegar la data con las estadísticas de tráfico de su APP, con ella hicimos las siguientes observaciones:
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisuno.PNG>
 </p>
 
-- Según la data el número de personas que entrán al landing es alto porque lo hacen desde cualquier dispositivo pero solo un porcentaje 
+- Según la data el número de personas que entrán al landing es alto porque lo hacen desde cualquier dispositivo con acceso a internet pero al estar habilitada solo la aplicación para descargar desde la APP store de iphone ese porcentaje disminuye considerablemente. Esa información es desconocida para los usuarios debido a que en el landing no lo menciona. 
 
-[Continuar escribiendo]
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisdos.PNG>
+</p>
+
+- La información sigue reflejando que por medio de dispositivos con sistema Android las personas ingresan al landing pero no logran convertir en descarga la app porque no pueden realizarla.
+
+- Las sesiones de los usuarios son más activas cuando se lanzó la aplicación, pero existe un porcentaje que solo la descargo y la dejo instalada sin utilizar.
+
+- Las sesiones duran más cuando ingresan desde un computador de escritorio con un minuto de diferencia más sobre las que inician desde mobile. Esto, creemos que se debe porque las personas ingresan desde el landing y su viaje hasta la descarga es más largo.
+
+
 ### Entrevista con Training manager 
 
-Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuales eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comento que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
+Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuáles eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comentó que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
 
 La aplicación tiene como objetivo a traer a usuarios más jóvenes y de esta forma fomentar el ahorro, a su vez, que estos se mantengan activos en su uso porque identificaron que a pesar de las descargas su uso no se mantenía en el tiempo. 
 
-El diseño se realizó en base a los colores de la instiución y se encuentra disponible solo para usuarios IOS, es decir personas que tienen Iphone. Esta medida se tomo por la información que les entrego el equipo de marketing. 
+El diseño se realizó en base a los colores de la institución y se encuentra disponible solo para usuarios IOS, es decir personas que tienen IPhone. Esta medida se tomó por la información que les entrego el equipo de marketing. 
 
-Para dar a conocer la aplicación a sus clientes crearon un landing page que difundieron por medio de campañas de pago en redes sociales como Facebook y televisión. Facebook fue una de los lugares que llevo a más publico a descargar la app pero no tanto como pensaban. 
+Para dar a conocer la aplicación a sus clientes crearon un landing page que difundieron por medio de campañas de pago en redes sociales como Facebook y televisión. Facebook fue una de los lugares que llevo a más público a descargar la app pero no tanto como pensaban.  
+
+## Entrevista con usuarios
+
+Para esta investigación entrevistamos a seis personas usuarias de algún banco en Chile y que en su celular tuviesen la app de su banco. A través de un cuestionario, conocimos de qué forma interactúan con su banco día a día y cómo utilizan la app. Además de sus formas y razones para ahorrar.
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/trainingmanager.jpeg">
 </p>
 
-
-## Entrevista con usuarios
-
-Para esta investigación entrevistamos a seis personas usuarias de algún banco en Chile y que en su celular tuviesen la app de su banco. A través de un cuestionario, conocimos de que forma interactúan con su banco día a día y cómo utilizan la app. Además de sus formas y razones para ahorrar.
 
 - Cuatro de los seis entrevistados tienen sistema operativo Android.
 
@@ -92,12 +102,9 @@ Para esta investigación entrevistamos a seis personas usuarias de algún banco 
 
 - Uno de los entrevistados prefiere el método tradicional de ahorro y el contacto directo con su ejecutiva.
 
-
-<p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/insightentrevistadosunos.jpeg">
-</p>
-
 Con estas entrevistas logramos identificar que los usuarios tienen la disposición a utilizar una 2 App “solo” cuando esta tenga una buena valorización y beneficios para ellos. 
+
+Conoce más sobre los insight de la entrevista [aquí]()
 
 ## Test de la app existente
 
@@ -125,6 +132,8 @@ Luego de la realización de los test logramos concluir que:
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/testprototipoexistente.jpeg">
 </p>
+
+Esta información la complementamos con las observaciones que realizamos como equipo. Puedes conocer estas observaciones en el siguiente enlance. (Análisis de interfaz de APP finanzas)[https://drive.google.com/drive/u/0/folders/1AV5zptaqpHQWbvS1I0cqVbk4V9HG590A]
 
 ## Benchmark
 
