@@ -50,8 +50,13 @@ Para comenzar la investigación ordenamos por jerarquía las actividades a reali
 
 ### Analisis de la Data 
 
-Cuando el equipo del banco con contacto nos hizo llegar una data con sus estadísticas de tráfico en desde el landing page.
+El equipo del banco nos hizo llegar la data con las estadíticas de tráfico de su app, con ella hicimos las siguientes observaciones:
 
+<p align="center">
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisuno.PNG>
+</p>
+
+- Según la data el número de personas que entrán al landing es alto porque lo hacen desde cualquier dispositivo pero solo un porcentaje 
 
 [Continuar escribiendo]
 ### Entrevista con Training manager 
