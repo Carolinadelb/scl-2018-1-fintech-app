@@ -53,13 +53,13 @@ Para comenzar la investigación ordenamos por jerarquía las actividades a reali
 El equipo del banco nos hizo llegar la data con las estadísticas de tráfico de su APP, con ella hicimos las siguientes observaciones:
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisuno.PNG>
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisuno.PNG">
 </p>
 
 - Según la data el número de personas que entrán al landing es alto porque lo hacen desde cualquier dispositivo con acceso a internet pero al estar habilitada solo la aplicación para descargar desde la APP store de iphone ese porcentaje disminuye considerablemente. Esa información es desconocida para los usuarios debido a que en el landing no lo menciona. 
 
 <p align="center">
-  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisdos.PNG>
+  <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/analisisdos.PNG">
 </p>
 
 - La información sigue reflejando que por medio de dispositivos con sistema Android las personas ingresan al landing pero no logran convertir en descarga la app porque no pueden realizarla.
