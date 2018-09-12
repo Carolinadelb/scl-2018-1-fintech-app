@@ -69,7 +69,7 @@ El equipo del banco nos hizo llegar la data con las estadísticas de tráfico de
 - Las sesiones duran más cuando ingresan desde un computador de escritorio con un minuto de diferencia más sobre las que inician desde mobile. Esto, creemos que se debe porque las personas ingresan desde el landing y su viaje hasta la descarga es más largo.
 
 
-### Entrevista con Training manager 
+## Entrevista con Training manager 
 
 Nos reunimos con Allison, training manager del equipo de desarrollo de la APP. Con ella logramos conocer cuáles eran las motivaciones del banco para llevar a cabo la aplicación, quien nos comentó que esta decisión fue una solicitud en parte de los clientes y del mismo banco, debido al fenómeno mundial de aplicaciones financieras. 
 
