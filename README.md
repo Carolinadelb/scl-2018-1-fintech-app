@@ -205,4 +205,6 @@ Luego de esto se realizó el Test del prototipo para sistema Android, donde a ci
 
 * Organización del equipo en [Trello](https://trello.com/b/p3RI02vK/proyecto-2-fintech)
 
+* Demo del proyecto en [Loom](https://www.useloom.com/share/c92854e04040428990ab40675d75d5a1)
+
 * Resumen del aprendizaje en [Medium]()
