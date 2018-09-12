@@ -111,7 +111,7 @@ Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistad
 
 Para conocer en detalle las impresiones de los entrevistados debes hacer clic en Test y podrás conocer la experiencia de cada uno utilizando la app. 
 
-* [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva cuenta.
 * [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear una nueva misión. 
 * [Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
 * [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva misión. 
@@ -142,13 +142,9 @@ Para realizar este benchmark buscamos aplicaciones que permitían a las personas
 
 ## User Person
 
-Respecto a los users persona que se habían considerado para la creación de la APP, nos dimos cuenta de que presentaban diversas fallas:
+Respecto a los users persona que se habían considerado para la creación de la APP, nos dimos cuenta de que presentaban diversas fallas. Por eso, a través nuestra investigación llegamos a la conclusión de que existe un público que tiene otro tipo de relación con el banco y no había sido incluido en el primer MVP. Estos, son las personas de 36 años hacía arriba, que ya son usuarios de la app principal del banco y ahorran de forma constante montos más grandes para metas a más largo plazo. 
 
--	Fiorella, no podía ser la users persona primaria. No tiene un ingreso establecido que le permita ahorrar ni fijarse metas. Si bien, entendemos la necesidad de un iphone nuevo no esclarece que es una usuaria activa de la app de su banco, entonces ¿por qué descargaría otra? 
--	Diego, es un perfecto usuario porque tiene 
-
-Por esto consideramos que la aplicación está enfocada en personas entre 18-35 años, que por su comportamiento y relación con la tecnología son quienes más están utilizando la apps Fintech porque cada día buscan como sacarle mejor provecho a su dinero y ahorrar para metas claras y alcanzables.
-Por otro lado, son los usuarios del banco que buscan ahorrar más a largo plazo, montos de dinero más grandes y que buscan una forma de hacerlo más cercana y accesible.
+En paralelo, están los jóvenes que tienen metas a más corto plazo y cuentan con un menor ingreso, que son los mayores usuarios de las Fintech App, que cada día buscan de qué forma innovar para ahorrar. Ellos tienen una relación no tan cercana con su banco, pero aun así son usuarios activos.
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/usersperson1.PNG">
@@ -197,6 +193,7 @@ Luego de esto se realizó el Test del prototipo para sistema Android, donde a ci
 
 - Consideramos continuar con la campaña de Facebook Bussines de pago durante un mes, segmentando el post a las personas que le dieron Me Gusta al FanPage del Banco El País. De esta forma mantenemos el presupuesto y no invertimos más de lo previamente asignado en esta red.
 - Complementar esta campaña con un Newsletter informando a los clientes del banco el lanzamiento de la nueva aplicación y que está los lleve al landing que contiene toda la información necesaria para conocer el funcionamiento de la APP. Para ello, tenemos una nueva interfaz de [landing page]().
+- Además, consideramos un aviso de Spotify de 30 segundos de duración dando a conocer la APP.
 - La aplicación se encuentra disponible en Google Play y en IOS para llegar a más usuarios y abarcar publicos que no habían sido considerados. 
 - Si la persona no esta utilizando la aplicación durante una semana, está le enviará una notificación para recordarle los días que lleva sin ahorrar. 
 
