@@ -112,9 +112,9 @@ Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistad
 Para conocer en detalle las impresiones de los entrevistados debes hacer clic en Test y podrás conocer la experiencia de cada uno utilizando la app. 
 
 * [Test 1](https://drive.google.com/file/d/1uT9cdasWc6RrAemjXEPp2hpImdhzZCjM/view?usp=sharing): La missión fue registrarse en la app y crear una nueva cuenta.
-* [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 2](https://www.useloom.com/share/74be4a4db53947798e0873ec2809fc96):  La missión fue registrarse en la app y crear  una nueva cuenta.
 * [Test 3](https://drive.google.com/file/d/1RZageyxc5eE8NU8tQDqSqXqlA9Kj5XC2/view?usp=sharing): La missión fue registrarse en la app y crear una nueva misión. 
-* [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva misión. 
+* [Test 4](https://www.useloom.com/share/1bdaa3cad24644fba3d0fff60ea1785e):  La missión fue registrarse en la app y crear una nueva cuenta.
 * [Test 5](https://www.useloom.com/share/2bc6c59ebdf64310ac3f12ce5ca5acc6): La missión asignada fue registrarse como nuevo usuario y ver los movimientos en Starbucks.
 * [Test 6](https://www.useloom.com/share/503cc5e48cc94e5ea7a3f18544933098): La missión asignada fue como cliente ya registrado iniciar sesión y mirar los gastos.
 
@@ -128,7 +128,7 @@ Luego de la realización de los test logramos concluir que:
 
 - Ninguna de las personas que realizó este test de usabilidad tenía en su celular alguna aplicación de similares características.
 
-Esta información la complementamos con las observaciones que realizamos como equipo. Puedes conocer estas observaciones en el siguiente enlance. (Análisis de interfaz de APP finanzas)[https://drive.google.com/drive/u/0/folders/1AV5zptaqpHQWbvS1I0cqVbk4V9HG590A]
+Esta información la complementamos con las observaciones que realizamos como equipo. Puedes conocer estas observaciones en el siguiente enlance. [Análisis de interfaz de APP finanzas](https://drive.google.com/drive/u/0/folders/1AV5zptaqpHQWbvS1I0cqVbk4V9HG590A)
 
 ## Benchmark
 
