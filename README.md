@@ -189,10 +189,12 @@ Luego de esto se realizó el Test del prototipo para sistema Android, donde a ci
 * [Test 4](https://www.useloom.com/share/15582100fd4641858b885a6c08ec749c): La missión fue registrarse con carnet de identidad.  
 * [Test 5](https://www.useloom.com/share/f51e56b3b8824d1aaa4094ff528de8c9): La missión asignada inicar sesión con huella,  ir a la sección gastos y cerrar sesión. 
 
+Conoce a través del skiguiente link el prototipo para dispositivo [Android](https://marvelapp.com/9fhgj27) y para dispositivo [IOS](https://marvelapp.com/3d9c3j3/screen/47722599)
+
 # Soluciones 
 
 - Consideramos continuar con la campaña de Facebook Bussines de pago durante un mes, segmentando el post a las personas que le dieron Me Gusta al FanPage del Banco El País. De esta forma mantenemos el presupuesto y no invertimos más de lo previamente asignado en esta red.
-- Complementar esta campaña con un Newsletter informando a los clientes del banco el lanzamiento de la nueva aplicación y que está los lleve al landing que contiene toda la información necesaria para conocer el funcionamiento de la APP. Para ello, tenemos una nueva interfaz de [landing page]().
+- Complementar esta campaña con un Newsletter informando a los clientes del banco el lanzamiento de la nueva aplicación y que está los lleve al landing que contiene toda la información necesaria para conocer el funcionamiento de la APP. Para ello, tenemos una nueva interfaz de [landing page](http://tusfinanzas.pagedemo.co/).
 - Además, consideramos un aviso de Spotify de 30 segundos de duración dando a conocer la APP.
 - La aplicación se encuentra disponible en Google Play y en IOS para llegar a más usuarios y abarcar publicos que no habían sido considerados. 
 - Si la persona no esta utilizando la aplicación durante una semana, está le enviará una notificación para recordarle los días que lleva sin ahorrar. 
