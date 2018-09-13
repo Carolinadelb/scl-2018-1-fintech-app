@@ -157,6 +157,8 @@ En paralelo, están los jóvenes que tienen metas a más corto plazo y cuentan c
 
 ## User Flow
 
+Antes de comenzar a realizar los cambios, hicimos un users flow para saber de que forma los usuarios iban a interactuar con el 
+
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/User%20Flow.PNG">
 </p>
@@ -189,7 +191,7 @@ Luego de esto se realizó el Test del prototipo para sistema Android, donde a ci
 * [Test 4](https://www.useloom.com/share/15582100fd4641858b885a6c08ec749c): La missión fue registrarse con carnet de identidad.  
 * [Test 5](https://www.useloom.com/share/f51e56b3b8824d1aaa4094ff528de8c9): La missión asignada inicar sesión con huella,  ir a la sección gastos y cerrar sesión. 
 
-Conoce a través del skiguiente link el prototipo para dispositivo [Android](https://marvelapp.com/9fhgj27) y para dispositivo [IOS](https://marvelapp.com/3d9c3j3/screen/47722599)
+Conoce a través del skiguiente link el prototipo de alta fidelidad para dispositivo [Android](https://marvelapp.com/9fhgj27) y para dispositivo [IOS](https://marvelapp.com/3d9c3j3/screen/47722599)
 
 # Soluciones 
 
