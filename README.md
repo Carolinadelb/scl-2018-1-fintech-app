@@ -14,7 +14,7 @@ Identificar cuáles son los factores en los que es necesario iterar para atraer 
 
 ## Introducción
 
-Según el último informe de la a Superintendencia de Bancos e Instituciones Financieras (SBIF), quienes revisaron cuentas de bancos y de cooperativas, los chilenos ahorran solo un porcentaje de su sueldo, lo hacen a través de depósitos a plazo, pero de igual forma se endeudan, solo el 53% de ellos lo hacen en tecnología.
+Según el último informe de la a Superintendencia de Bancos e Instituciones Financieras (SBIF), quienes revisaron cuentas de bancos y de cooperativas, los chilenos ahorran solo un porcentaje de su sueldo, lo hacen a través de depósitos a plazo, pero de igual forma se endeudan, el 53% de ellos lo hacen en tecnología.
 
 
 <p align="center">
@@ -26,6 +26,19 @@ Por otro lado, las generaciones más jóvenes buscan métodos nuevos para ahorra
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/1.png">
 </p>
+
+
+
+
+82%
+Busca información
+Usuarios chilenos que cuando necesitan buscar información, el primer lugar que buscan es en internet.
+
+74%
+Preferencia digital
+Usuarios chilenos que al tener la oportunidad de hacer una tarea de forma digital, la harán de esa forma.
+
+
 
 
 # Proceso de Investigación
@@ -46,7 +59,7 @@ Para llevar a cabo esta investigación seleccionamos las tareas que consideramos
 |Total |265 pts.| 93,5 horas | 382500|
 
 ## Entendimiento del problema
-Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, analizamos la data y con esto entendimos que el primer paso era reunirnos con la Training manager.
+Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, analizamos la data y con esto entendimos que el primer paso era reunirnos con la Product manager.
 
 ### Analisis de la Data 
 
@@ -157,7 +170,7 @@ En paralelo, están los jóvenes que tienen metas a más corto plazo y cuentan c
 
 ## User Flow
 
-Antes de comenzar a realizar los cambios, hicimos un users flow para saber de que forma los usuarios iban a interactuar con el 
+Antes de comenzar a realizar los cambios, hicimos un users flow para saber de que forma los usuarios iban a interactuar con la aplicación. 
 
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/User%20Flow.PNG">
