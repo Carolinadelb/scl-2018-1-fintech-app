@@ -56,7 +56,7 @@ Para esta investigación entrevistamos a seis personas usuarias de algún banco 
 - Mas de uno de los entrevistados tenía dos cuentas en el mismo banco (vista y corriente) entre la que se traspasaba fondos como forma de ahorro.
 Con estas entrevistas logramos identificar que los usuarios tienen la disposición a utilizar una 2 App “solo” cuando esta tenga una buena valorización y beneficios para ellos. 
 
-Conoce más sobre los insight de la entrevista [aquí](https://drive.google.com/file/d/1oDbKs3n3bPlfm_axMGRbttG705AJvkyt/view?usp=sharing)
+Conoce más sobre los insight de las entrevistas [aquí](https://drive.google.com/file/d/1oDbKs3n3bPlfm_axMGRbttG705AJvkyt/view?usp=sharing)
 
 ## Test de la app existente
 Para evaluar la aplicación realizamos test de usabilidad a nuestros entrevistados quienes desconocían el funcionamiento de la APP. A cada uno se les asigno una tarea a realizar con el prototipo. Para conocer en detalle las impresiones de los entrevistados debes hacer clic en Test y podrás conocer la experiencia de cada uno utilizando la app. 
@@ -74,7 +74,7 @@ Esta información la complementamos con las observaciones que realizamos como eq
 Respecto a los users persona que se habían considerado para la creación de la APP, nos dimos cuenta de que presentaban diversas fallas. Por eso, a través nuestra investigación llegamos a la conclusión de que existe un público que tiene otro tipo de relación con el banco y no había sido incluido en el primer MVP. Estos, son las personas de 36 años hacía arriba, que ya son usuarios de la app principal del banco y ahorran de forma constante montos más grandes para metas a más largo plazo. 
 
 En paralelo, están los jóvenes que tienen metas a más corto plazo y cuentan con un menor ingreso, que son los mayores usuarios de las Fintech App, que cada día buscan de qué forma innovar para ahorrar. Ellos tienen una relación no tan cercana con su banco, pero aun así son usuarios activos.
-Además de que no existe diferencia económica entre usuarios de Android o IOS,
+
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/usersperson1.PNG">
 </p>
