@@ -106,7 +106,7 @@ Para iterar en la aplicación se realizó una nueva [guía de estilo](https://dr
 -	Se incluyo el menú en todas las pantallas.
 -	Las instrucciones de la aplicación son todas más descriptivas y en español.
 
-Conoce a través del siguiente link el prototipo de alta fidelidad para dispositivo [Android](https://marvelapp.com/19aeb4g6/screen/47917934) y para dispositivo [IOS](https://marvelapp.com/3d9c3j3/screen/47722599)
+Conoce a través del siguiente link el prototipo de alta fidelidad para dispositivo [Android](https://marvelapp.com/19aeb4g6/screen/47917934). 
 
 ### Link de interés 
 * Archivos de Información, disponibles en [GOOGLE DRIVE](https://drive.google.com/open?id=1AV5zptaqpHQWbvS1I0cqVbk4V9HG590A)
@@ -115,4 +115,4 @@ Conoce a través del siguiente link el prototipo de alta fidelidad para disposit
 
 * Demo del proyecto en [Loom](https://www.useloom.com/share/c92854e04040428990ab40675d75d5a1)
 
-* Resumen del aprendizaje en [Medium]()
+* Resumen del aprendizaje en [Medium](https://medium.com/@ConstanzaGarcia/el-futuro-est%C3%A1-en-tu-investigaci%C3%B3n-19dfbf412a29)
