@@ -1,4 +1,4 @@
-Introducción
+### Introducción
 Hace seis meses el banco más importante del país lanzo una nueva aplicación al mercado. Esta permite a los usuarios visualizar sus gastos mensuales y ahorrar. Luego de este periodo y no 100 % contentos con el resultado, contactaron a nuestro equipo de UX para que los ayudemos a redefinir la dirección y evolución de este producto. 
 
 <p align="center">
@@ -14,6 +14,7 @@ Según los resultados de la Encuesta Financiera de Hogares (EFH) dada conocer po
 <p align="center">
   <img src="https://github.com/ConstanzaGarcia/scl-2018-1-fintech-app/blob/master/assets/img/ahorrochileactualizado.PNG">
 </p>
+
 ### Analisis de la Data 
 
 El equipo del banco nos hizo llegar la data con las estadísticas de tráfico de su APP, con ella hicimos las siguientes observaciones:
@@ -54,6 +55,7 @@ Para esta investigación entrevistamos a seis personas usuarias de algún banco 
 - Para ahorrar dos de los usuarios lo hacen a través de fondos mutuos, los que pueden monitorear de manera constante a través de la aplicación de su celular.
 - Mas de uno de los entrevistados tenía dos cuentas en el mismo banco (vista y corriente) entre la que se traspasaba fondos como forma de ahorro.
 Con estas entrevistas logramos identificar que los usuarios tienen la disposición a utilizar una 2 App “solo” cuando esta tenga una buena valorización y beneficios para ellos. 
+
 Conoce más sobre los insight de la entrevista [aquí](https://drive.google.com/file/d/1oDbKs3n3bPlfm_axMGRbttG705AJvkyt/view?usp=sharing)
 
 ## Test de la app existente
@@ -63,6 +65,9 @@ Con los test logramos concluir que:
 - Algunos tuvieron dificultad a la hora de leer el texto por la debilidad de los colores y lo pequeño de la letra.
 - Un test cuestiono que la aplicación solo estuviese para IOS y no Android porque todos pueden ahorrar.
 - Ninguna de las personas que realizó este test de usabilidad tenía en su celular alguna aplicación de similares características.
+
+Para conocer en profundidad los test, revisa los [vídeos](https://drive.google.com/drive/folders/1Eag3sTjVeNYAzxOmrNqBGR-ZPyAeYw3l?usp=sharing)
+
 Esta información la complementamos con las observaciones que realizamos como equipo. Puedes conocer estas observaciones en el siguiente enlace. [Análisis de interfaz de APP finanzas](https://drive.google.com/drive/u/0/folders/1AV5zptaqpHQWbvS1I0cqVbk4V9HG590A)
 
 ## User Person
